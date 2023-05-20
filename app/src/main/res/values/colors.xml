@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">\
+    <color name="white">#FFFFFF</color>
+<!-- Tab Layout Color-->
+    <color name="tabColorSelected">#fff</color>
+    <color name="tabColorUnselected">#CBE6FA</color>
+
+<!-- Theme-->
+    <color name="P1034A6">#1034A6</color>
+    <color name="black" tools:ignore="DuplicateDefinition">#000</color>
+
+</resources>
